@@ -1,0 +1,23 @@
+    .detailGroups{
+    background-color:gold;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    border: 1px solid black;
+    height: 400px;  
+}
+
+.titleDetail{
+    flex-grow:  1;
+  padding-left: 20px;
+  justify-content: center;
+}
+
+h5{
+    margin-left: 20px;
+}
+.detail {
+    flex-grow:  12;
+    border: 1px solid black;
+    
+}

@@ -1,0 +1,37 @@
+.main {
+    display: flex;
+  }
+
+.menu-left{
+  width: 200px;
+  background-color: chartreuse;
+  display: flex;
+  
+}
+
+ul.list-icon{
+ padding:0px;
+ text-align: center;
+ margin-bottom: 0px;
+}
+
+li.icon{
+  border: 1px solid black;
+  width: 200px;
+  height: 100px;
+
+}
+
+ i.material-icons {
+  line-height: 100px;
+}
+
+li.icon:hover{
+  background-color: white;
+  color: black;
+}
+.content{
+  width: 1318px;
+  display: flex;
+}
+
